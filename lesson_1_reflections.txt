@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped me to check for bugs in a very effective and efficient manner,rather than 
+	scanning the whole code it highlighted the bugs which increased the readibility and
+	accessability of bugs to fix it.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It would help me to look for changes that I have made over the course of time and
+	keep track of all the necessary updates required and go back to the previous 
+	version in order to meet some demands of the user if the update isn't satisfactory.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros :- It allows user to commit specifically when its necessary or required according
+	to the scale of changes been made.
+	Cons :- If user forgets to commit he/she can lose the updated data.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because it look towards the efficiency of the code and durability which should 
+	decrease the time to update the code which cannot be achieved if a user is going
+    to commit each file individually.	
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log :- It is used to view history of changes done to the files that means every
+	commit being made with time.
+	git diff :- It is used to compare to files and the changes being done with time.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    As it could allow me to go back from the current commit(version) to the previous one
+    this would make it very convenient for me to track the errors and correct it.	
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To make my own repository and apply all what I have learned.

@@ -1,1 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
 
+When I want to push my work to gitHub to share it publicly for contributions from others.
